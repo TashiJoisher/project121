@@ -1,0 +1,21 @@
+body
+{
+	text-align: center;
+	background: linear-gradient( turquoise,crimson); 
+	font-family: 'Times New Roman', Times, serif;
+	font-size: 50;
+}
+span
+{
+	font-size: 18px;
+	color: red;
+}
+canvas
+{
+	background: rgb(240, 165, 219);
+	border-radius: 10px;
+
+}
+html{
+	background: linear-gradient( turquoise,crimson); 
+}
